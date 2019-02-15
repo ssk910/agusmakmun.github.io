@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm junior Programmer for Java & JavaScript
 
-email: agus[at]python.web.id
+email: chris.hwang.dev[at]gmail.com
