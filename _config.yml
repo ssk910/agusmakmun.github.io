@@ -16,20 +16,20 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+#    - icon: fa-facebook
+#      link: "#"
+#    - icon: fa-twitter
+#      link: "#"
+#    - icon: fa-linkedin
+#      link: "#"
+#    - icon: fa-stack-exchange
+#      link: "#"
     - icon: fa-github
       link: "https://github.com/ssk910"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+#  twitter_username: github.io
+#  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
